@@ -1,5 +1,5 @@
 # K-Means Clustering: Experimental Reproduction Study
-FAI Capstone — CS5100, Northeastern University, Spring 2026
+FAI Capstone - CS5100, Northeastern University, Spring 2026
 Keshvi Choksi and Parthiv Modi
 
 ## Project Overview
@@ -11,17 +11,17 @@ following MacQueen (1967), and extends it with:
 - PCA visualisation
 
 ## Dataset
-UCI Iris Dataset — 150 samples, 4 features, 3 known classes
+UCI Iris Dataset - 150 samples, 4 features, 3 known classes
 
 ## How to Run
 1. Open kmeans_clustering.ipynb in Google Colab or Jupyter
 2. Run all cells from top to bottom
-3. No additional setup required — all libraries are standard
+3. No additional setup required - all libraries are standard
 
 ## Files
-- kmeans_clustering.ipynb — full implementation and experiments
-- report/Final_Report.docx — written final report
-- requirements.txt — required Python libraries
+- kmeans_clustering.ipynb - full implementation and experiments
+- report/Final_Report.docx - written final report
+- requirements.txt - required Python libraries
 
 ## References
 - MacQueen (1967)
