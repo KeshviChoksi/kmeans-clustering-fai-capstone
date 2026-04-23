@@ -19,8 +19,9 @@ UCI Iris Dataset - 150 samples, 4 features, 3 known classes
 3. No additional setup required - all libraries are standard
 
 ## Files
-- kmeans_clustering.ipynb - full implementation and experiments
-- report/Final_Report.docx - written final report
+- Modi_Choksi_Milestone_3.ipynb - full implementation and experiments
+- Choksi_Modi_Final_Report_Capestone-4
+- K-Means-Clustering-Experimental-Study
 - requirements.txt - required Python libraries
 
 ## References
